@@ -1,0 +1,7 @@
+# pyproject.toml
+# requierede for modern tools as build. Gives info to pip on how to build the project
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
