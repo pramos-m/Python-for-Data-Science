@@ -4,11 +4,10 @@ setup(
     name='ft_package',
     version='0.0.1',
     description='A sample test package',
-    Home-page: https://github.com/pramos-m/Python-for-Data-Science/tree/main/0-starting/ex09/ft_package,
     author='pramos-m',
+    license="MIT",
     author_email='pramos-m@student.42barcelona.com',
-    License="MIT",
-    Location: 'to update',
+    url='to update',
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
